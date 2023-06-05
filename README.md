@@ -1,2 +1,28 @@
-# Stereo-Vision-3D-Object-Reconstruction
-Computer Vision project on stereo vision 3D reconstruction
+# Stereo Vision 3D Object Reconstruction
+
+3D object reconstruction using stereo vision is a
+cutting-edge technology which allows to create realistic 3D models
+that can be used in product design, marketing materials, and
+more. The aim of this work is to obtain accurate 3D models
+using computer vision approaches. This system involves the use
+of two cameras to capture multiple images of an object from
+different viewpoints, then depth information is extracted from
+the images and used to reconstruct a 3D model of the object.
+
+
+## Dependencies
+
+* [Python](https://www.python.org/)
+* [OpenCV](https://opencv.org/)
+* [Open3D](http://www.open3d.org/)
+* [Numpy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+
+## Usage
+
+Let's explain how to use the system:
+
+* ```stereo_vision_calibration.py```: Compute stereo vision calibration, rectification and disparity maps
+* ```reconstruction.py```: Compute point clouds and merge them
+
+## Results
