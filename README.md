@@ -26,6 +26,6 @@ Let's explain how to use the system:
 * ```reconstruction.ipynb```: Compute point clouds and merge them
 
 ## Example of partial 3D reconstruction
-<p align='center'>
-  <img src="result.png" width="30%"/>
+<p align='left'>
+  <img src="result.png" width="40%"/>
 </p>
