@@ -28,6 +28,6 @@ Let's explain how to use the system:
 ## Example of partial 3D reconstruction
 An example obtained by registering 3 successive point clouds.
 
-<p align='center'>
-  <img src="result.png" width="40%"/>
+<p align='left'>
+  <img src="result.png" width="30%"/>
 </p>
