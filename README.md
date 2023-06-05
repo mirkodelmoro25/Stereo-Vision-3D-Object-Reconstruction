@@ -27,5 +27,5 @@ Let's explain how to use the system:
 
 ## Example of partial 3D reconstruction
 <p align='center'>
-  <img src="result.png" width="50%"/>
+  <img src="result.png" width="30%"/>
 </p>
