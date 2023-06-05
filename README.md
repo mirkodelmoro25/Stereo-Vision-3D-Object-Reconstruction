@@ -1,9 +1,9 @@
 # Stereo Vision 3D Object Reconstruction
 
 3D object reconstruction using stereo vision is a
-cutting-edge technology which allows to create realistic 3D models
+cutting-edge technology that allows the creation of realistic 3D models
 that can be used in product design, marketing materials, and
-more. The aim of this work is to obtain accurate 3D models
+more. The goal of this work is to obtain accurate 3D models
 using computer vision approaches. This system involves the use
 of two cameras to capture multiple images of an object from
 different viewpoints, then depth information is extracted from
