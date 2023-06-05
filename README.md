@@ -22,7 +22,7 @@ the images and used to reconstruct a 3D model of the object.
 
 Let's explain how to use the system:
 
-* ```stereo_vision_calibration.py```: Compute stereo vision calibration, rectification and disparity maps
-* ```reconstruction.py```: Compute point clouds and merge them
+* ```stereo_vision_calibration.ipynb```: Compute stereo vision calibration, rectification and disparity maps
+* ```reconstruction.ipynb```: Compute point clouds and merge them
 
 ## Results
