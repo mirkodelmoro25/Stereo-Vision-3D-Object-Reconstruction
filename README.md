@@ -25,4 +25,7 @@ Let's explain how to use the system:
 * ```stereo_vision_calibration.ipynb```: Compute stereo vision calibration, rectification and disparity maps
 * ```reconstruction.ipynb```: Compute point clouds and merge them
 
-## Results
+## Example of partial 3D reconstruction
+<p align='center'>
+  <img src="result.png" width="80%"/>
+</p>
